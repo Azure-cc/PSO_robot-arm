@@ -25,11 +25,7 @@ Adopts a hybrid initialization strategy (80% Local + 20% Global search) to elimi
 2. Run Locally：Download the html file and double-click to run.
 
 
-📖 User Guide
-
-1.Interactive Control
 Click anywhere on the canvas or drag the Green Target Point. The arm will follow in real-time.
 
-2.
-
+If you want to know more about the operation principle, welcome to visit my personal blog。【CSDN_枫叶机关录】
 
