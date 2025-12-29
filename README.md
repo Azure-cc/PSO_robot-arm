@@ -25,5 +25,9 @@ Adopts a hybrid initialization strategy (80% Local + 20% Global search) to elimi
 
 📖 User Guide
 
+1.Interactive Control
+Click anywhere on the canvas or drag the Green Target Point. The arm will follow in real-time.
+
+2.
 
 
