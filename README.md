@@ -27,5 +27,5 @@ Adopts a hybrid initialization strategy (80% Local + 20% Global search) to elimi
 
 Click anywhere on the canvas or drag the Green Target Point. The arm will follow in real-time.
 
-If you want to know more about the operation principle, welcome to visit my personal blog。【CSDN_枫叶机关录】
+If you want to know more about the principle of system implementation, welcome to visit my personal blog.【CSDN_枫叶机关录】
 
