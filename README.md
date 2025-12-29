@@ -18,10 +18,12 @@ Built-in geometric collision detection. When obstacles (red circles) are present
 Adopts a hybrid initialization strategy (80% Local + 20% Global search) to eliminate jitter during continuous control, ensuring smooth and natural motion trajectories.
 
 
+
 🚀 How to use this project？
 
 1. This project does not require environmental deployment
 2. Run Locally：Download the html file and double-click to run.
+
 
 📖 User Guide
 
