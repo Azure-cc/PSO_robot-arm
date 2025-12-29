@@ -14,3 +14,7 @@ Real-time sampling using the Monte Carlo method generates a blue point cloud bac
 
 📉 Smooth Motion Control:
 Adopts a hybrid initialization strategy (Local + Global search) to eliminate jitter during continuous control, ensuring smooth motion trajectories.​​
+
+🚀 Quick Start
+
+This is a pure front-end project requiring no server configuration or dependencies.
